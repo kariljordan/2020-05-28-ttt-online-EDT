@@ -16,10 +16,6 @@ locations:
   - venue: "Online"
     address: "online"
 
-  - venue: "Online"
-    address: "online"
-    latlng: "0"
-
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
